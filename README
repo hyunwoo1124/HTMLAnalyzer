@@ -1,0 +1,14 @@
+Author:       Hyun Woo Kim hyunwoo777@csu.fullerton.edu
+Description:  Simple HTML scanner that finds vulnerabilities.
+
+
+
+
+How to start.
+1. Download the repository on your local machine.
+2. simply run by "./htmlAnalyzer.py"
+3. Flags to use
+    -h        flags to assist
+    -v        prints the version of the script
+    --config  view the config files
+    -o        print out to a file
